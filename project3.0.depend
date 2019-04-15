@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1555130100 source:c:\users\shirobako\desktop\c++ project\project3.0\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<windows.h>
+	<cmath>
+
